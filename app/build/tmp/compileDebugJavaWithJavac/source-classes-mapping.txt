@@ -1,0 +1,16 @@
+com/johncoimbra/netflixclone/BuildConfig.java
+ com.johncoimbra.netflixclone.BuildConfig
+com/johncoimbra/netflixclone/databinding/ActivityRegisterBinding.java
+ com.johncoimbra.netflixclone.databinding.ActivityRegisterBinding
+com/johncoimbra/netflixclone/databinding/ActivityVideoBinding.java
+ com.johncoimbra.netflixclone.databinding.ActivityVideoBinding
+com/johncoimbra/netflixclone/databinding/ActivityLoginBinding.java
+ com.johncoimbra.netflixclone.databinding.ActivityLoginBinding
+com/johncoimbra/netflixclone/databinding/ActivityDetailsFilmsBinding.java
+ com.johncoimbra.netflixclone.databinding.ActivityDetailsFilmsBinding
+com/johncoimbra/netflixclone/databinding/ActivityMainBinding.java
+ com.johncoimbra.netflixclone.databinding.ActivityMainBinding
+com/johncoimbra/netflixclone/databinding/ActivityListFilmsBinding.java
+ com.johncoimbra.netflixclone.databinding.ActivityListFilmsBinding
+com/johncoimbra/netflixclone/databinding/ListFilmsBinding.java
+ com.johncoimbra.netflixclone.databinding.ListFilmsBinding

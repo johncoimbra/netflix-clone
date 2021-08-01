@@ -5,4 +5,6 @@
     <string name="cast">Estrelando:Henry Cavill,Anya Chalotra,Freya Allan
 Criação:Lauren Schmidt Hissrich</string>
     <string name="mais_filmes_e_series">Mais Filmes e Séries</string>
+    <string name="cover_the_witcher"><![CDATA[https://firebasestorage.googleapis.com/v0/b/netflix-clone-b3552.appspot.com/o/video.jpg?alt=media&token=f7ed7209-a4b8-4fe6-baa1-bf2fbf88cee8]]></string>
+    <string name="url_video"><![CDATA[https://firebasestorage.googleapis.com/v0/b/netflix-clone-b3552.appspot.com/o/THE%20WITCHER%20_%20TRAILER%20FINAL%20_%20NETFLIX.mp4?alt=media&token=2175c625-7b16-4447-844f-243d9a5501a0]]></string>
 </resources>

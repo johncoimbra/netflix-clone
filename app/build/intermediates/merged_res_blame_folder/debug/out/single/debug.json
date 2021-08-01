@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme1.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme1.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_register.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\edit_text_register.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme11.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme11.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme5.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme5.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme10.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme10.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details_films.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\activity_details_films.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_films.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\list_films.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_netflix_official_logo.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\ic_netflix_official_logo.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme7.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme7.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme2.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme2.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_login.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable\\edit_text_login.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme9.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme9.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme12.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme12.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme4.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme4.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_films.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\layout\\activity_list_films.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme6.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme6.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme8.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme8.jpg"
+    },
+    {
+        "merged": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filme3.jpg.flat",
+        "source": "C:\\Projects_DevJohn\\Curso_2_Kotlin\\NetflixClone\\netflix-clone\\app\\src\\main\\res\\drawable-v24\\filme3.jpg"
+    }
+]
